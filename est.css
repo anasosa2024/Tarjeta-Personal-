@@ -1,0 +1,23 @@
+#caja >div {
+    float: left;
+}
+#caja {
+    margin: 50px 25%;    
+    border: 5px;
+    border-color: blueviolet;
+    box-sizing: border-box;
+    width: 550px;
+    height: 260px;
+    border-style: solid;
+}
+#datos {
+    text-align: center;
+    align-items: center;
+    color: rgb(247, 1, 165);
+}
+#foto {
+    margin: auto;
+}
+a {
+    color: rgb(247, 1, 165);
+}
